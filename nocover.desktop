@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=nocover
+Comment=Scan & delete images from phone's Music folder
+Exec=/bin/nocover.py
+Icon=edit-delete-symbolic
+Terminal=true
+Categories=Utility;FileTools;System;
+StartupNotify=true
